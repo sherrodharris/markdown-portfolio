@@ -1,1 +1,1 @@
-![Image of a selfie](https://photos.app.goo.gl/Mznj8o6oY3BDGv1LA)
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
